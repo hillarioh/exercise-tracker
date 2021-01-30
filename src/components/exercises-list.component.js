@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 function ExercisesList() {
   return (
     <div>
-      <p></p>
+      <p>Exercise List</p>
     </div>
   );
 }
