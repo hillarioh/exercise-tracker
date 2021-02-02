@@ -20,8 +20,13 @@ function Navbar() {
             </Link>
           </li>
           <li className="navbar-item">
-            <Link to="/user" className="nav-link">
-              Create User
+            <Link to="/signup" className="nav-link">
+              Sign Up
+            </Link>
+          </li>
+          <li className="navbar-item">
+            <Link to="/login" className="nav-link">
+              Log In
             </Link>
           </li>
         </ul>
